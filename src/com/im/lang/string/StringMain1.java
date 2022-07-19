@@ -24,8 +24,11 @@ public class StringMain1 {
 		//s2.studyIndexOfEx1();
 		//s2.studyIndexOf();
 		//s2.studySubString();
-		s2.ex2();
-		
+		//s2.ex2();
+		StringStudy3 s3 = new StringStudy3();
+		s3.studySplit();
+		s3.studySplit2();
+		s3.studySplit3();
 	}
 
 }
