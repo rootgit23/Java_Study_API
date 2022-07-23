@@ -2,7 +2,7 @@ package com.im.io.file.ex1;
 
 public class StudentDTO {
 	private String name;
-	private String phone;
+	private int num;
 	private int kor;
 	private int eng;
 	private int math;
@@ -14,11 +14,11 @@ public class StudentDTO {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getPhone() {
-		return phone;
+	public int getNum() {
+		return num;
 	}
-	public void setPhone(String phone) {
-		this.phone = phone;
+	public void setNum(int num) {
+		this.num = num;
 	}
 	public int getKor() {
 		return kor;
