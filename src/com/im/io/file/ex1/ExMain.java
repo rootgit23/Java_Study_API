@@ -15,6 +15,8 @@ public class ExMain {
 				System.out.println(studentDTO.getKor());
 				System.out.println(studentDTO.getEng());
 				System.out.println(studentDTO.getMath());
+				System.out.println(studentDTO.getTotal());
+				System.out.println(studentDTO.getAvg());
 				System.out.println("==================");
 				
 			}
